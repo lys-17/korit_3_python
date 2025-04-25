@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e7553c0-7633-4246-8be4-f37759342c65" name="변경" comment="phthon">
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/class.02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/class.03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/class01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch07/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch07/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/learning_log/250425.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learning_log/250424.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/learning_log/250424.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,23 +57,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.collection.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.print.executor": "Run",
-    "Python.tuple.executor": "Run",
-    "Python.type.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/평일파이썬/.idea/평일파이썬.iml"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module01_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module01_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/digital_twin/python_study&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\digital_twin\python_study\src\main" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="module01_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/ch06/module01_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.module01_1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
