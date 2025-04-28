@@ -4,8 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e7553c0-7633-4246-8be4-f37759342c65" name="변경" comment="phthon">
+    <list default="true" id="25b1956b-470c-44e3-ba35-daea93f10ff3" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/repository/webtoon_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/service/webtoon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/db_study/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/collection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/print.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/tuple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/type.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch02/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/db_study/db01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch02/if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch02/range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch03/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/db_study/db02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch03/function01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch03/function02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch03/function03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch03/function04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch03/input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch04/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/repository/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learning_log/250422.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learning_log/250423.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/learning_log/250424.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,32 +63,24 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2w47qlzDJwtP5Rh9Vx4YGOe4Vqm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2wD4Gy6SqTDylEmlVrkzHvU2H3C" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.collection.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.print.executor": "Run",
-    "Python.tuple.executor": "Run",
-    "Python.type.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.db02.executor": "Run",
+    "Python.webtoon.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/평일파이썬/.idea/평일파이썬.iml"
+    "last_opened_file_path": "C:/digital_twin/crawling"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\digital_twin\python_study\src\main" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,25 +91,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="1e7553c0-7633-4246-8be4-f37759342c65" name="변경" comment="" />
-      <created>1745289185130</created>
+      <changelist id="25b1956b-470c-44e3-ba35-daea93f10ff3" name="변경" comment="" />
+      <created>1745562718824</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1745289185130</updated>
+      <updated>1745562718824</updated>
     </task>
-    <task id="LOCAL-00001" summary="phthon">
-      <option name="closed" value="true" />
-      <created>1745309360671</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1745309360671</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="phthon" />
-    <option name="LAST_COMMIT_MESSAGE" value="phthon" />
   </component>
 </project>
